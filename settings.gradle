@@ -1,0 +1,2 @@
+rootProject.name='OpenVFD'
+include ':app'
